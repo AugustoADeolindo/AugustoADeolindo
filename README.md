@@ -23,7 +23,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old and currently live in Brazil. I am fluent in Spanish, I am studying English and I am at the basic level. I'm comfortable with Javascript, HTML, CSS, C#. Training as an IT Technician helped me develop my skills, separate courses also helped me develop communication, teamwork, dedication and commitment, thus helping me to develop better in my training as an analyst and system developer.
+  - 💬 I am 19 years old and currently live in Brazil. I am fluent in Spanish, I am studying English and I am at the basic level. I'm comfortable with Javascript, HTML, CSS, C# and C. Training as an IT Technician helped me develop my skills, separate courses also helped me develop communication, teamwork, dedication and commitment, thus helping me to develop better in my training as an analyst and system developer.
 
   - ⚡ I like studying, reading, playing the guitar, watching films/documentaries based on history and real events, I also like playing sports and playing games! I believe that our personal interests contribute to a more accurate perception, since when we do what we like, our mind becomes more perceptive when solving problems. \o/
 </details>
