@@ -36,8 +36,8 @@
 
 <!-- GithubStats -->
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoadeolindo&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoadeolindo&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoadeo&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Portfolio -->
 <!--## Portfolio:
