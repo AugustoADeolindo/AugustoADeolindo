@@ -5,8 +5,11 @@
 </div>
 
 <!-- GIF -->
- <img align="center" src="https://profile-readme-generator.com/assets/snake.svg" width="600">
-
+<div id="user-content-toc">
+  <ul align="center">
+    <img src="https://profile-readme-generator.com/assets/snake.svg" width="600">
+</div>
+    
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Augusto! A passionate analysis and systems development student from Brazil.
@@ -41,7 +44,10 @@
 
 
 <!-- GIF -->
- <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<div id="user-content-toc">
+  <ul align="center">
+     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+</div>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
