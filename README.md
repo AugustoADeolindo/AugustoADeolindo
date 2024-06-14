@@ -4,6 +4,9 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<!-- GIF -->
+ <img src="https://profile-readme-generator.com/assets/snake.svg" width="600">
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Augusto! A passionate analysis and systems development student from Brazil.
