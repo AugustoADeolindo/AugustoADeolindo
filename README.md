@@ -1,18 +1,16 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">👋 Hello World, I'm Augusto! </h1></summary>
 </div>
+<!-- GithubStats -->
 
-<!-- GIF -->
-<div id="user-content-toc">
-  <ul align="center">
-    <img src="https://profile-readme-generator.com/assets/snake.svg" width="600">
-</div>
-    
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoadeolindo&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoadeolindo&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Augusto! A passionate analysis and systems development student from Brazil.
+  A passionate analysis and systems development student from Brazil.
 
   - 🌱 I’m currently studying analysis and systems development at FATEC-Faculty of Technology of the State of São Paulo
 
@@ -33,24 +31,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/augusto-deolindo-14a996296?original_referer=https%3A%2F%2Fwww.google.com%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augusto.a.deolindo@gmail.com)
 
-
-<!-- GithubStats -->
-
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoadeolindo&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=augustoadeolindo&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Portfolio -->
-<!--## Portfolio:
-- -->
-
-
-<!-- GIF -->
-<div id="user-content-toc">
-  <ul align="center">
-     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-</div>
-
-## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
