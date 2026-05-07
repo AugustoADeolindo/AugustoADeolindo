@@ -29,10 +29,6 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FFE81F&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Java;Always+learning+new+technologies;Welcome+to+my+galaxy+%F0%9F%9A%80" />
-
----
-
 ## 🛠️ Tecnologias
 
 <div align="center">
