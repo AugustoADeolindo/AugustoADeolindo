@@ -24,7 +24,7 @@
 
 💻 Desenvolvedor focado em criar aplicações modernas e funcionais.  
 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.  
-🎯 Interesse em desenvolvimento web, software e UI/UX.  
+🎯 Foco em desenvolvimento web, software e UI/UX.  
 ⚡ Buscando evoluir constantemente como desenvolvedor.
 
 ---
